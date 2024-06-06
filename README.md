@@ -1,9 +1,9 @@
 # Multi-Class-Prediction-of-Obesity-Risk
 ## Overview
 
-**Title:** Multi-Class Prediction of Obesity Risk
+**Title:* Multi-Class Prediction of Obesity Risk
 
-**Overview:**Welcome to 2024 Kaggle Playground Series Multi-Class Prediction of Obesity Risk!.Accurate prediction of obesity risk is crucial for early intervention and prevention of associated health issues like cardiovascular disease. This competition aims to use various factors, such as demographic and lifestyle data, to build models that predict an individual's obesity risk level.
+**Overview:*Welcome to 2024 Kaggle Playground Series Multi-Class Prediction of Obesity Risk!.Accurate prediction of obesity risk is crucial for early intervention and prevention of associated health issues like cardiovascular disease. This competition aims to use various factors, such as demographic and lifestyle data, to build models that predict an individual's obesity risk level.
 
 **Aim:**Your task in this challenge is to develop machine learning models that leverage the provided dataset to predict obesity risk. The goal is to classify individuals into different obesity risk categories based on their characteristics and behaviors. Successful models will help healthcare professionals and policymakers identify high-risk individuals and implement targeted preventive measures.
 ## Importance of the Model
