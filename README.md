@@ -17,7 +17,7 @@ Your task in this challenge is to develop machine learning models that leverage 
 * Model Selection: Comparing algorithms like Logistic Regression, Random Forest, Gradient Boosting, and Xgb boost to find the best model.
 * Model Training and Evaluation: Training the selected model and evaluating its performance using accuracy, precision and recall.
 * Hyperparameter Tuning: Optimizing model hyperparameters for better performance.
-##Technologies Used
+## Technologies Used
 * Python: Utilizing Python for data preprocessing, feature engineering, and building machine learning models.
 * Data Visualization: Using visualization tools and libraries to understand data distributions, relationships, and model performance.
 * Machine Learning Models: Implementing algorithms to predict obesity risk based on the provided dataset.
